@@ -1,0 +1,17 @@
+Naming conventions
+
+Data types -
+    --primitive
+    --non primitive
+
+Access modifiers -
+    -- public - throughout the project it can be accessible
+    -- private - we can access them in a class (will cover in encapsulation)
+    -- default - we can access them only within the package but not outside the package
+    -- protected - we will cover this in inheritance concept
+
+Loops -
+    -- while loop
+
+
+
